@@ -1,43 +1,70 @@
-# Hi there, I'm Arijit Das 👋 (he/him)
+# Hi there, I'm Arijit Das 👋
 
-### 💭 "need food and coffee. also need sleep 😞"
+<p align="left">
+  <img src="https://img.shields.io/badge/Maintained-Yes-success?style=flat-square" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Role-Software%20Developer-blue?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20Quantum%20Computing-purple?style=flat-square" alt="Focus" />
+</p>
 
-I am a Developer and Computer Science undergraduate student passionate about building impactful software, exploring intelligence (both artificial and quantum), and participating in hackathons.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, TypeScript, JavaScript, Flutter |
-| **Backend & Cloud** | Java, Python, Firebase, Supabase, AWS, Cloudflare, Vercel, Render |
-| **AI & Data Science** | TensorFlow, Vertex AI, Gemini AI Studio, ML/DL, Python |
-| **Specialized** | Qiskit (Quantum Computing), GIS Mapping, Git & GitHub |
+I am a Computer Science & Engineering undergraduate student and software developer. I specialize in building full-stack applications, optimizing machine learning workflows, and exploring quantum computing systems. I thrive in fast-paced hackathons and enjoy translating complex engineering problems into clean, production-ready code.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Expertise
 
-* **[niwaas](https://github.com/arijit-06/niwaas)** – A project dedicated to residency and housing solutions. *(JavaScript)*
-* **[ml_chestxray](https://github.com/arijit-06/ml_chestxray)** – An ML model trained on Kaggle's Chest-Xray dataset to detect pneumonia, tuberculosis, COVID-19, or normal conditions. *(Python)*
-* **Intelligent Personal Finance Assistant** – A smart financial tracking and advisory roadmap integration leveraging Flutter, Python, and LLMs.
-* **[STEP-JAVA](https://github.com/arijit-06/STEP-JAVA)** / **[AdvancedProgrammingPractices](https://github.com/arijit-06/AdvancedProgrammingPractices)** – Robust core programming foundations, data structures, and advanced practices in Java.
+### 💻 Software Engineering & Cloud
+* **Languages:** `Java`, `Python`, `TypeScript`, `JavaScript`, `C++`
+* **Frontend:** `React.js`, `Next.js`, `Flutter`, `HTML5/CSS3`
+* **Backend & Databases:** `Node.js`, `Firebase`, `Supabase`, `PostgreSQL`
+* **Cloud & DevOps:** `AWS`, `Cloudflare`, `Vercel`, `Render`, `Git`, `GitHub Actions`
+
+### 🤖 Intelligence & Advanced Computing
+* **Generative AI & ML:** `TensorFlow`, `Vertex AI`, `Gemini AI Studio`, Large Language Models (LLMs)
+* **Quantum Computing:** `Qiskit` (Quantum Circuit Logic, Bell States)
+* **Spatial Data:** `GIS Infrastructure Mapping` & Spatial Dataset Analysis
+
+---
+
+## 🚀 Featured Engineering Projects
+
+### 🧠 [ml_chestxray](https://github.com/arijit-06/ml_chestxray)
+> **Machine Learning • Python • TensorFlow**
+* Developed a Deep Learning classification model trained on chest X-ray datasets.
+* Configured to accurately identify pneumonia, tuberculosis, COVID-19, and normal clinical conditions.
+
+### 🏠 [niwaas](https://github.com/arijit-06/niwaas)
+> **Full-Stack Development • JavaScript**
+* Built a dedicated web application focused on modern residency management and housing solutions.
+
+### 💳 Intelligent Personal Finance Assistant
+> **Mobile & AI • Flutter • Python • LLMs**
+* Architected a smart financial tracking system featuring an interactive conversational AI advisory roadmap.
+* Integrated large language models to deliver personalized budgetary insights and real-time data analysis.
+
+### ☕ Core Foundations & Systems
+* **[STEP-JAVA](https://github.com/arijit-06/STEP-JAVA) / [AdvancedProgrammingPractices](https://github.com/arijit-06/AdvancedProgrammingPractices):** Production-grade implementations of advanced data structures, OOP design patterns, and robust software engineering principles in Java.
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 📊 GitHub Performance & Metrics
 
-* 🏅 **Pull Shark (x2)** – Keeping git history clean, one PR at a time.
-* 🚀 Active hackathon builder and open-source contributor.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arijit-06&show_icons=true&theme=tokyonight&count_private=true" alt="Arijit's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijit-06&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
 
----
-
-## 📫 Let's Connect!
-
-* **Email:** [arijit270906@gmail.com](mailto:arijit270906@gmail.com)
-* **LinkedIn:** [in/arijitdas2709](https://linkedin.com/in/arijitdas2709)
-* **Instagram:** [@oreojitz](https://instagram.com/oreojitz)
+* 🏅 **Pull Shark (x2)** – Committed to maintaining atomic, clean, and well-documented pull requests.
+* 🚀 Active hackathon builder, collaborative team lead, and open-source contributor.
 
 ---
-<p align="center">🎒 Balancing code, coffee, and the quest for a proper sleep schedule. Located somewhere between Kolkata and Chennai.</p>
+
+## 📫 Professional Contact
+
+Feel free to reach out for collaborations, hackathons, or technical discussions:
+
+[![Email](https://img.shields.io/badge/Email-arijit270906%40gmail.com-red?style=flat-square&logo=gmail)](mailto:arijit270906@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arijitdas2709-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arijitdas2709)
+[![Instagram](https://img.shields.io/badge/Instagram-%40oreojitz-purple?style=flat-square&logo=instagram)](https://instagram.com/oreojitz)
+
+---
+<p align="center"><i>Constantly optimizing workflows. Operating between Kolkata and Chennai.</i></p>
